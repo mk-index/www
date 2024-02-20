@@ -440,7 +440,7 @@ p:last-of-type {
 
 /*Layout*/
 .l-wrapper {
-  max-width: calc(960px + 8%);
+  max-width: 960px;
   padding: 0 4%;
   margin-right: auto;
   margin-left: auto;
