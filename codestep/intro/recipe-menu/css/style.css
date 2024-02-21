@@ -437,6 +437,7 @@ p:last-of-type {
 
 /*Project*/
 .p-hero__img {
+  width: 100%;
   height: 100vh;
   -o-object-fit: cover;
      object-fit: cover;
