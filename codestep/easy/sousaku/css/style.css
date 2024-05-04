@@ -479,7 +479,7 @@ p {
 }
 
 .l-header--bg {
-  background: url(/img/mainvisual-sp.jpg) no-repeat;
+  background: url(../img/mainvisual-sp.jpg) no-repeat;
   background-position: center center;
   background-size: cover;
   height: 100vh;
@@ -488,7 +488,7 @@ p {
 }
 @media screen and (width > 768px) {
   .l-header--bg {
-    background: url(/img/mainvisual-pc.jpg);
+    background: url(../img/mainvisual-pc.jpg);
     background-position: center center;
     background-size: cover;
     height: 100vh;
