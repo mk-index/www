@@ -506,7 +506,7 @@ img {
 
 /*layout*/
 .l-header {
-  background: url("/img/mainvisual.jpg") no-repeat;
+  background: url("../img/mainvisual.jpg") no-repeat;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
