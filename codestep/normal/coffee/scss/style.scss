@@ -57,7 +57,7 @@ img{
 			margin-bottom: 90px;
 		}
 		&--menu{
-			background: url("/img/menu.jpg") no-repeat;
+			background: url("../img/menu.jpg") no-repeat;
 			background-size: cover;
 			@include mix.mq(var.$pc){
 				background-attachment: fixed;
@@ -65,14 +65,14 @@ img{
 	
 		}
 		&--about{
-			background: url("/img/about.jpg") no-repeat;
+			background: url("../img/about.jpg") no-repeat;
 			background-size: cover;
 			@include mix.mq(var.$pc){
 				background-attachment: fixed;
 			}
 		}
 		&--location{
-			background: url("/img/location.jpg") no-repeat;
+			background: url("../img/location.jpg") no-repeat;
 			background-size: cover;
 			@include mix.mq(var.$pc){
 				background-attachment: fixed;
