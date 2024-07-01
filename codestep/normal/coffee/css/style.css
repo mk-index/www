@@ -427,7 +427,7 @@ img {
   }
 }
 .c-sectionTitle__bg--menu {
-  background: url("/img/menu.jpg") no-repeat;
+  background: url("../img/menu.jpg") no-repeat;
   background-size: cover;
 }
 @media screen and (min-width: 767px) {
@@ -436,7 +436,7 @@ img {
   }
 }
 .c-sectionTitle__bg--about {
-  background: url("/img/about.jpg") no-repeat;
+  background: url("../img/about.jpg") no-repeat;
   background-size: cover;
 }
 @media screen and (min-width: 767px) {
@@ -445,7 +445,7 @@ img {
   }
 }
 .c-sectionTitle__bg--location {
-  background: url("/img/location.jpg") no-repeat;
+  background: url("../img/location.jpg") no-repeat;
   background-size: cover;
 }
 @media screen and (min-width: 767px) {
@@ -656,5 +656,5 @@ img {
   padding-top: 8px;
 }
 .p-location__gmap {
-  filter: grayscale(10);
+  filter: grayscale(1);
 }
