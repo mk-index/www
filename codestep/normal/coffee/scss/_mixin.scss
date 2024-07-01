@@ -1,0 +1,7 @@
+@use "variable" as var;
+
+@mixin mq($breakpoint){
+    @media screen and (min-width:$breakpoint){
+        @content;
+    }
+}
