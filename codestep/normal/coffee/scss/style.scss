@@ -170,7 +170,8 @@ img{
 	}
 }
 .l-wrapper{
-	max-width: 1000px;
+	max-width: calc(1000px + 32px);
+	// max-width: 1000px;
 	padding: 0 16px;
 	margin: 0 auto;
 }
