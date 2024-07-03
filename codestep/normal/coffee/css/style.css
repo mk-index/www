@@ -548,6 +548,7 @@ img {
 }
 
 .l-wrapper {
+  max-width: 1032px;
   max-width: 1000px;
   padding: 0 16px;
   margin: 0 auto;
